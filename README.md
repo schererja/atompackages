@@ -1,2 +1,3 @@
 # atompackages
-Basic script and the atom plug-ins using
+Basic script and the atom plug-ins using.
+
